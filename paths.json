@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/asosandboxsetup/:/",
-    "/content/asosandboxsetup/configuration:/.helix/config.json",
-    "/content/asosandboxsetup/metadata:/metadata.json"
+    "/content/asosandboxsetuppoc/:/",
+    "/content/asosandboxsetuppoc/configuration:/.helix/config.json",
+    "/content/asosandboxsetuppoc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/asosandboxsetup/"
+    "/content/asosandboxsetuppoc/"
   ]
 }
